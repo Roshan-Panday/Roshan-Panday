@@ -10,6 +10,7 @@
 
   ---
 
+  <h3 style="color:#00f2ff;">🐍 CONTRIBUTION LOG</h3>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Roshan-Panday/Roshan-Panday/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Roshan-Panday/Roshan-Panday/output/github-contribution-grid-snake.svg">
@@ -26,11 +27,14 @@
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   </p>
 
-  <h3 style="color:#00f2ff;">🏆 ACHIEVEMENTS</h3>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Roshan-Panday&theme=radical&no-frame=true&no-bg=true&margin-w=4" width="100%" />
-  </a>
+  <br>
+
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Roshan-Panday&label=SYSTEM+ACCESS+COUNT&color=00f2ff&style=for-the-badge" alt="visitor counter" />
+  </p>
 
 </div>
