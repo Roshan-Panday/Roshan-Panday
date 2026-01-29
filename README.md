@@ -1,40 +1,24 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f2ff&height=280&section=header&text=SYSTEM%20ONLINE&fontSize=70&fontAlign=50&fontAlignY=40&animation=fadeIn&fontColor=ffffff&desc=ROSHAN%20PANDAY%20//%20SYSTEM%20ARCHITECT&descAlign=50&descAlignY=60&descSize=25" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f2ff&height=280&section=header&text=ROSHAN%20PANDAY&fontSize=70&fontAlign=50&fontAlignY=40&animation=fadeIn&fontColor=ffffff&desc=SYSTEM%20ARCHITECT%20//%20AI%20ENGINEER&descAlign=50&descAlignY=60&descSize=20" width="100%"/>
 
   <h3>
     <a href="https://readme-typing-svg.herokuapp.com">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00F2FF&center=true&vCenter=true&width=600&lines=Initializing+AI+Core...;System+Architect+%2F%2F+Full+Stack;Building+Offline+Neural+Networks;Deploying+Secure+Infrastructures" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00F2FF&center=true&vCenter=true&width=600&lines=Initializing+System+Protocols...;Architecting+Scalable+Backends;Training+Offline+Neural+Networks;Deploying+Secure+Digital+Assets" alt="Typing SVG" />
     </a>
   </h3>
 
-  ---
-
-  <h3 style="color:#00f2ff;">🐍 CONTRIBUTION LOG</h3>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Roshan-Panday/Roshan-Panday/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Roshan-Panday/Roshan-Panday/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Roshan-Panday/Roshan-Panday/output/github-contribution-grid-snake.svg" width="100%" />
-  </picture>
-
-  <br><br>
-
-  <h3 style="color:#00f2ff;">⚡ TECH ARSENAL</h3>
-  <p>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  </p>
-
-  <br>
-
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Roshan-Panday&label=SYSTEM+ACCESS+COUNT&color=00f2ff&style=for-the-badge" alt="visitor counter" />
-  </p>
-
 </div>
+
+---
+
+### 👨‍💻 SYSTEM_LOG: `profile.txt`
+```bash
+user@ROSHAN-PANDAY:~$ neofetch
+
+> OS:       AI Architecture v2.0
+> HOST:     New Delhi, India 🇮🇳
+> UPTIME:   24/7
+> ROLE:     System Architect & Full Stack Dev
+> FOCUS:    Bridging heavy backend logic with modern web systems.
+> CURRENT:  Building "Sidhanta Agency" Enterprise Solutions.
