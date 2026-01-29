@@ -10,12 +10,12 @@
 
   ---
 
-  <img src="https://github-readme-stats.vercel.app/api?username=roshan-panday&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=00f2ff&icon_color=00f2ff&text_color=ffffff" height="170" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshan-panday&layout=compact&theme=radical&hide_border=true&bg_color=000000&title_color=00f2ff&text_color=ffffff" height="170" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Roshan-Panday&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=00f2ff&icon_color=00f2ff&text_color=ffffff" height="170" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roshan-Panday&layout=compact&theme=radical&hide_border=true&bg_color=000000&title_color=00f2ff&text_color=ffffff" height="170" alt="languages graph"  />
 
   <br>
 
-  <img src="https://streak-stats.demolab.com?user=roshan-panday&theme=radical&hide_border=true&background=000000&ring=00f2ff&currStreakLabel=00f2ff" height="150" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=Roshan-Panday&theme=radical&hide_border=true&background=000000&ring=00f2ff&currStreakLabel=00f2ff" height="150" alt="streak graph" />
 
   <br>
   <br>
