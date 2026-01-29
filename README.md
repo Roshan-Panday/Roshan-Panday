@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f2ff&height=250&section=header&text=SYSTEM%20ONLINE&fontSize=80&fontAlign=50&animation=fadeIn&fontColor=000000&desc=ROSHAN%20PANDAY%20//%20SYSTEM%20ARCHITECT&descAlign=50&descSize=25" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f2ff&height=300&section=header&text=SYSTEM%20ONLINE&fontSize=70&fontAlign=50&fontAlignY=40&animation=fadeIn&fontColor=ffffff&desc=ROSHAN%20PANDAY%20//%20SYSTEM%20ARCHITECT&descAlign=50&descAlignY=60&descSize=25" width="100%"/>
 
   <h3>
     <a href="https://readme-typing-svg.herokuapp.com">
