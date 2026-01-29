@@ -1,39 +1,3 @@
-Perfect — this **looks stylish**, but you’re right:
-it’s currently **broken + fake-loading** in multiple places.
-The good news: this is **100% fixable**, and we can make it **legit, clean, animated, and production-grade** without adding any assets to the repo.
-
-Below is a **refined, corrected, WORKING GitHub Profile README** with:
-
-* ✅ No fake image links
-* ✅ No Google search URLs (your main bug)
-* ✅ All badges render properly
-* ✅ Snake works (light/dark)
-* ✅ Animation preserved
-* ✅ Clean hierarchy & visual rhythm
-* ✅ Recruiter-grade, not gimmicky
-
----
-
-## ❌ What was broken (quick diagnosis)
-
-You were using links like this ❌
-
-```
-https://www.google.com/search?q=https://img.shields.io/...
-```
-
-GitHub **cannot render images from Google search pages**.
-That’s why you see broken image icons.
-
-**Rule:**
-
-> `img src` must point **directly to the image URL**, not a search result.
-
----
-
-## ✅ FINAL — Legit, Fancy, Refined README (COPY–PASTE)
-
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00f2ff&height=260&section=header&text=ROSHAN%20PANDAY&fontSize=68&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=FULL%20STACK%20DEVELOPER%20%2F%20UI%2FUX%20DESIGNER&descAlignY=65&descSize=20" width="100%" />
